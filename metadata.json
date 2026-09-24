@@ -1,0 +1,6 @@
+{
+  "name": "제미나이 마음노트",
+  "description": "구글 AI 스튜디오와 구글 앱스 크립트(GAS)를 연동한 학생 맞춤형 제미나이 마음노트 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
