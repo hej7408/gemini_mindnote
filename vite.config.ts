@@ -15,6 +15,7 @@ function apiDevPlugin(): Plugin {
 
 export default defineConfig(() => {
   return {
+    base: '/gemini_mindnote/',
     plugins: [react(), tailwindcss(), apiDevPlugin()],
     resolve: {
       alias: {
